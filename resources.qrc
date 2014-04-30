@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix='/plugins/swapXY/'>
+    <file>swapXYIcon.png</file>
+  </qresource>
+</RCC>
