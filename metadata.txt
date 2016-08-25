@@ -10,8 +10,9 @@
 
 [general]
 name=Swap XY
-description=Swaps coordinate order of vector layers: (x,y) -> (y,x)
-description[pl]=Zamienia kolejność współrzędnych warstwy wektorowej: (x,y) -> (y,x)
+description=Swaps coordinate order of vector layers
+description[pl]=Zamienia kolejność współrzędnych warstwy wektorowej
+about=This plugin allows you to swap coordinate order from (x,y) to (y,x) in order fix problems with some reference systems.
 version=0.1.3
 qgisMinimumVersion=1.6
 qgisMaximumVersion=2.99
@@ -24,8 +25,8 @@ qgisMaximumVersion=2.99
 tags=vector,coordinates,order
 category=Vector
 
-homepage=http://hub.qgis.org/projects/swapxy
-tracker=http://hub.qgis.org/projects/swapxy/issues
+homepage=https://github.com/borysiasty/swapxy
+tracker=https://github.com/borysiasty/swapxy/issues
 repository=http://github.com/borysiasty/swapxy
 icon=swapXYIcon.png
 experimental=False
